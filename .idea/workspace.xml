@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="732f6610-6df9-44f1-974e-d664b367e212" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/2017-18/pitagora/pitagora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017-18/tinylib/tinylib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-19/TinyJDK/TinyJDK.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-19/lezione18-19/lezione18-19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soluzione appelli/Scritto PO2 20 6 18/Scritto PO2 20 6 18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soluzione appelli/Scritto PO2 20 6 19/Scritto PO2 20 6 19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soluzione appelli/Scritto PO2 22 1 19/Scritto PO2 22 1 19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soluzione appelli/Scritto PO2 24 5 18/Scritto PO2 24 5 18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soluzione appelli/Scritto PO2 30 5 19/Scritto PO2 30 5 19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soluzione appelli/Scritto PO2 31 1 20/Scritto PO2 31 1 20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soluzione appelli/Scritto PO2 4 9 18/Scritto PO2 4 9 18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/soluzione appelli/Scritto PO2 6 9 19/Scritto PO2 6 9 19.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vZfbU0V7yqF3uEhMBB64Ln0mpE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="732f6610-6df9-44f1-974e-d664b367e212" name="Default Changelist" comment="" />
+      <created>1626774602572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626774602572</updated>
+      <workItem from="1626774604599" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
